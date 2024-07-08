@@ -1,1 +1,0 @@
-var x = input("How are you?")
